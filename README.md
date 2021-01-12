@@ -1,8 +1,6 @@
 # The RumorStance Project
 
-The data used in the paper "The presence of unexpected biases in online fact-checking" after being anonymized for the reproducibility of research outcomes.
-
-The paper will be published in the Harvard Kennedy School Misinformation Review (https://misinforeview.hks.harvard.edu/) shortly.
+The data used in the paper "The presence of unexpected biases in online fact-checking" after being anonymized for the reproducibility of research outcomes. The paper will be published in the Harvard Kennedy School Misinformation Review (https://misinforeview.hks.harvard.edu/) shortly.
 
 ##### Please cite as:
 Park S, Park Y, Kang J, and Cha M <br>
@@ -21,7 +19,7 @@ Harvard Kennedy School Misinformation Review, to be published in 2021. <br>
 #### 2. Feature codes
 The below table is the tested rumors drawn from the unconfirmed list of claims on Snopes.com: 
 
-<img src="./source/table_tested_rumors.png" width="400">
+<img src="./source/table_tested_rumors.png">
 
 Please find the detailed codes for each feature:
 ```
