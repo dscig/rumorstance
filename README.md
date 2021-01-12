@@ -19,12 +19,13 @@ Harvard Kennedy School Misinformation Review, to be published in 2021. <br>
 ```
 
 #### 2. Feature codes
-The below table is the tested rumors drawn from the unconfirmed list of claims on Snopes.com: 
+The below table is the tested rumors drawn from the unconfirmed list of claims on Snopes.com.
 
 <img src="./source/table_tested_rumors.png">
 
 Please find the detailed codes for each feature:
 ```
+- claim:
 - 
 
 
