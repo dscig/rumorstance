@@ -83,10 +83,6 @@ gender:
 poli: 
 - the political orientation for each respondent, the values are in (1, 2, 3, 4, 5)
 - Each value corresponds to the following orientation: (Vert Liberal, Liberal, Middle-of-the-road, Conservative, Very conservative)
-
-ethnicity: 
-- The values are in (1, 2, 3, 4, 5), c.f., respondents can choose multiple answers
-- Each value corresponds to the following ethnicity: (Asian/Pacific Islander, Black, White, Native American/Alaska Native, Exclusive/None of the Above)
 ```
 
 Should you have any questions or comments, please contact us at the following email address: shaun01.park@gmail.com. <br> <br>
