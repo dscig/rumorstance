@@ -14,7 +14,7 @@ Harvard Kennedy School Misinformation Review, to be published in 2021. <br>
 #### 1. Overview
 ```
 - System used to conduct experiments simulating online news consumption environments: Amazon Mechanical Turk (https://www.mturk.com/)
-- Dataset pre-processed and refined: rumorstance_response_clean.csv
+- Dataset pre-processed and refined: download rumorstance_response_clean.csv
 - Total number of respondents (# of rows in the dataset): 11,145
 ```
 
