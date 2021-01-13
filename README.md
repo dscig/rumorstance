@@ -23,7 +23,7 @@ The below table is the tested rumors drawn from the unconfirmed list of claims o
 
 <img src="./source/table_tested_rumors.png">
 
-Please find the detailed explanation of the codes below for each feature:
+Please find the detailed explanation of the codes below for each feature.
 ```
 claim:
 - The tested rumors drawn from the unconfirmed list of claims on Snopes.com, the values are in (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
