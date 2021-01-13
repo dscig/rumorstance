@@ -85,7 +85,7 @@ poli:
 - Each value corresponds to the following orientation: (Vert Liberal, Liberal, Middle-of-the-road, Conservative, Very conservative)
 
 ethnicity: 
-- The values are in (1, 2, 3, 4, 5): respondents can choose multiple answers
+- The values are in (1, 2, 3, 4, 5), respondents can choose multiple answers
 - Each value corresponds to the following ethnicity: (Asian/Pacific Islander, Black, White, Native American/Alaska Native, Exclusive/None of the Above)
 ```
 
