@@ -85,6 +85,10 @@ poli:
 - Each value corresponds to the following orientation: (Vert Liberal, Liberal, Middle-of-the-road, Conservative, Very conservative)
 ```
 
+#### 3. Validity of the Data
+In many cases, survey results are bound to multiple errors, and therefore we report some of the verification processes we took to ensure the validity of results. The Chi-squared test of independence identified that fact-checking conditions were randomly distributed across the ten rumor claims. No significant interaction was
+observed between the assigned conditions and claims (𝜒2=44.21, df=45, p=0.51), and one-way ANOVA for pre-stance did not find any significant difference across the six states (F=0.77, p=0.57). We also checked what fraction of the respondents always picked the first (or the left-most) choices throughout the survey. This resulted in 0.35% (39/11,145) of all subjects, which is a negligible proportion. When choosing the ten claims, we tried to find topics of general interest. However, some topics may be more intuitive to understand than others, causing external validity problems. The users’ total response time was observed to identify any bias in perception difficulty across the claims and to check whether users took a reasonable amount of time on the survey. The total distribution of time spent on the survey is skewed. Most turkers completed their tasks within 10 minutes (98.80%) and the median time taken was 96 seconds, but a small fraction took a disproportionately large amount of time (e.g., several hours). Nonetheless, 99 percent completed the task within 12.2 minutes. Examining those users who took significantly long sessions, we find no correlation between the time spent and claims (𝜒2=8.08, df=9, p=0.53). <br>
+
 Should you have any questions or comments, please contact us at the following email address: shaun01.park@gmail.com. <br> <br>
 
 < end of document >
