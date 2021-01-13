@@ -81,7 +81,7 @@ gender:
 - male: 1; female: 2
 
 poli: 
-- the political orientation, the values are in (1, 2, 3, 4, 5)
+- the political orientation for each respondent, the values are in (1, 2, 3, 4, 5)
 - Each value corresponds to the following orientation: (Vert Liberal, Liberal, Middle-of-the-road, Conservative, Very conservative)
 
 ethnicity: 
