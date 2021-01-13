@@ -26,8 +26,8 @@ The below table is the tested rumors drawn from the unconfirmed list of claims o
 Please find the detailed codes for each feature:
 ```
 claim:
-- The tested rumors drawn from the unconfirmed list of claims on Snopes.com
-- The values are from 1 to 10. The corresponding codes can be found in the table above
+- The tested rumors drawn from the unconfirmed list of claims on Snopes.com, the values are in (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+- Each value corresponds to the codes in the table above
 
 prestance: 
 - The degree of the initial view towards a given unproven claim, the values are in (-2, -1, 0, 1, 2), which is a 5-point Likert scale
@@ -91,4 +91,4 @@ ethnicity:
 
 Should you have any questions or comments, please contact us at the following email address: shaun01.park@gmail.com. <br> <br>
 
-<end of document>
+< end of document >
