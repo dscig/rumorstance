@@ -2,7 +2,7 @@
 
 The data used in two papers <i>"The presence of unexpected biases in online fact-checking"</i> and <i>"An Experimental Study to Understand User Experience and Perception Bias Occurred by Fact-checking Messages"</i> after being anonymized for the reproducibility of research outcomes.
 
-The first paper has been published in the Harvard Kennedy School Misinformation Review (https://doi.org/10.37016/mr-2020-53); the extended second one was presented at the Web Conference in April 2021 (https://doi.org/10.1145/3442381.3450121).
+The first paper has been published in the Harvard Kennedy School Misinformation Review (https://doi.org/10.37016/mr-2020-53); the extended second one was presented at the Web Conference 2021 in April 2021 (https://doi.org/10.1145/3442381.3450121).
 
 ##### Please cite as:
 Park S, Park Y, Kang J, and Cha M <br>
