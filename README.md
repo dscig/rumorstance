@@ -1,13 +1,21 @@
 # The RumorStance Project
 
-The data used in the paper "The presence of unexpected biases in online fact-checking" after being anonymized for the reproducibility of research outcomes.
+The data used in two papers "The presence of unexpected biases in online fact-checking" and "An Experimental Study to Understand User Experience and Perception Bias Occurred by Fact-checking Messages" after being anonymized for the reproducibility of research outcomes.
 
-The paper will be published in the Harvard Kennedy School Misinformation Review (https://misinforeview.hks.harvard.edu/) shortly.
+The first paper has been published in the Harvard Kennedy School Misinformation Review (https://doi.org/10.37016/mr-2020-53); the extended second one was presented at the Web Conference in April 2021 (https://doi.org/10.1145/3442381.3450121).
 
 ##### Please cite as:
 Park S, Park Y, Kang J, and Cha M <br>
 The presence of unexpected biases in online fact-checking <br>
-Harvard Kennedy School Misinformation Review, to be published in 2021. <br>
+Harvard Kennedy School Misinformation Review, doi.org/10.37016/mr-2020-53. 2021. <br>
+
+or
+
+##### Please cite as:
+Park S, Park JY, Chin H, Kang JH, and Cha M <br>
+An Experimental Study to Understand User Experience and Perception Bias Occurred by Fact-checking Messages <br>
+In Proceedings of the Web Conference 2021 (pp.2769-2780), doi.org/10.1145/3442381.3450121. April, 2021. <br>
+
 
 ### Data Description
 
